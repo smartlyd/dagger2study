@@ -1,0 +1,3 @@
+include ':presentation', ':myapplication'
+include ':domain'
+include ':data'
